@@ -1,6 +1,6 @@
 # 【Pytorch】 Transformerを用いた時系列予測
 
-「【Pytorch】 Transformerを用いた時系列予測」（ ）に使用したコードです。
+「【Pytorch】 Transformerを用いた時系列予測」（https://qiita.com/apple-pie/items/7c046f1c0da60e8a4ff8 ）に使用したコードです。
 seq2seq.ipynbをダウンロードしてgoogle colabなどで実行するのみで予測を行うことができます。
 
 ## 概要
