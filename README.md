@@ -1,4 +1,4 @@
-# 【Pytorch】 Seq2Seqによる時系列予測
+# 【Pytorch】 Transformerを用いた時系列予測
 
 「【Pytorch】 Transformerを用いた時系列予測」（ ）に使用したコードです。
 seq2seq.ipynbをダウンロードしてgoogle colabなどで実行するのみで予測を行うことができます。
