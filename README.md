@@ -14,8 +14,6 @@ seabornの中にあるair passengersというデータを用いて、このTrans
 
 <img width="400" src="https://user-images.githubusercontent.com/87755637/223009329-44b296c9-5d92-4969-9755-3e1f5bb8bf9c.png">
 
-結果は季節変動は捉えられているが、傾向変動が捉えられませんでした。
-
 <img width="400" src="https://user-images.githubusercontent.com/87755637/226383340-76148587-4ccb-46e5-9cf6-f442f92188d9.png">
 
 大体は予測できていますが、細かい部分が予測できていません。パラメータなどを調整したりすれば改善するかもしれません。
